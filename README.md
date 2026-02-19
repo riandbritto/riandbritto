@@ -58,10 +58,7 @@ I enjoy transforming raw data into insights, building scalable data pipelines, a
 - 📧 Email: riandbritto61@gmail.com
 
 ---
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,docker,tensorflow,pytorch,mongodb" />
-</p>
 
 
-🎯 Open to roles in Data Analytics, Data Science, and Data Engineering.  
+🎯 Open to roles in Data Analytics, Business Analytics, Business Intelligence and Data Scientist.  
 Let’s build impactful data solutions together!
