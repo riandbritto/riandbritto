@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Rian Dbritto]
+# 👋 Hi, I'm Rian Dbritto
 
 ### Data Analyst | Data Scientist | Data Engineer  
 
