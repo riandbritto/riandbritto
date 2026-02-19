@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rian Dbritto
 
-### Data Analyst | Data Scientist | Data Engineer  
+### Business Analyst | Data Analyst | Data Scientist  
 
 Passionate about solving real-world problems using data.  
 I enjoy transforming raw data into insights, building scalable data pipelines, and deploying machine learning models that drive business impact.
