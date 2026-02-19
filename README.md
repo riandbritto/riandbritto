@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm [Rian Dbritto]
 
-<!--
-**riandbritto/riandbritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Data Scientist | Data Engineer  
 
-Here are some ideas to get you started:
+Passionate about solving real-world problems using data.  
+I enjoy transforming raw data into insights, building scalable data pipelines, and deploying machine learning models that drive business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me
+
+- 🔍 Specialize in **Data Analysis, ML Modeling, and ETL development**
+- ⚙️ Build **end-to-end data workflows** from ingestion to visualization
+- ☁️ Experienced with **cloud platforms and data engineering tools**
+- 🤖 Exploring **Generative AI, LLMs, and advanced analytics**
+
+---
+
+## 🛠 Skills
+
+### 💻 Languages & Databases
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+---
+
+### 📚 Frameworks & Libraries
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+
+---
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![MLflow](https://img.shields.io/badge/MLflow-blue?style=for-the-badge)
+
+---
+
+### 📊 Business Intelligence
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: [Your LinkedIn Link]
+- 📧 Email: your.email@example.com
+- 🌍 Portfolio: [Your Portfolio Website]
+
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,docker,tensorflow,pytorch,mongodb" />
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+
+
+🎯 Open to roles in Data Analytics, Data Science, and Data Engineering.  
+Let’s build impactful data solutions together!
