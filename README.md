@@ -49,11 +49,6 @@ I enjoy transforming raw data into insights, building scalable data pipelines, a
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
 
 ---
 
@@ -66,9 +61,6 @@ I enjoy transforming raw data into insights, building scalable data pipelines, a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,sql,aws,docker,tensorflow,pytorch,mongodb" />
 </p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
 
 🎯 Open to roles in Data Analytics, Data Science, and Data Engineering.  
