@@ -59,9 +59,8 @@ I enjoy transforming raw data into insights, building scalable data pipelines, a
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: [Your LinkedIn Link]
-- 📧 Email: your.email@example.com
-- 🌍 Portfolio: [Your Portfolio Website]
+- 🔗 LinkedIn: [www.linkedin.com/in/rian-dbritto-2316682a9]
+- 📧 Email: riandbritto61@gmail.com
 
 ---
 <p align="left">
